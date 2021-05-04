@@ -1,0 +1,13 @@
+frames/*
+frames2/*
+frames3/*
+vids/*
+venv/*
+.idea/*
+__pycache__/*
+*.zip
+*.mp4
+*.json
+*.ipynb
+*.pdf
+create_gif.py
